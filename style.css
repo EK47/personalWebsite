@@ -1,0 +1,26 @@
+.WhiteFont
+{
+  color: white;
+}
+.TACenter {
+  text-align: center;
+}
+.FS28
+{
+  font-size: 28px;
+}
+.FFJosefin
+{
+  font-family: 'Josefin Sans', sans-serif;
+}
+.FFInconsolota
+{
+  font-family: 'Inconsolata', monospace;
+}
+
+/* This is the cool background */
+
+body
+{
+  background-image: url("StarNight.jpg");
+}
