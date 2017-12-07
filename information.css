@@ -2,6 +2,22 @@
 {
   color: white;
 }
+#ParagraphWidth
+{
+  width: 50em;
+  margin-left: auto;
+  margin-right: auto;
+}
+#QuoteBackground
+{
+  background-color: #B24C0C;
+  width: 30em;
+  height: 8.5em;
+  margin-right: 50%;
+  border-style: solid;
+  border-color: black;
+  border-width: 0.4em;
+}
 .TACenter {
   text-align: center;
   margin: 0.25em auto
